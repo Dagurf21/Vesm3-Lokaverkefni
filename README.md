@@ -2,7 +2,7 @@
 Lokaverkefni í Verksmiðju 3, Tækniskólinn 2021
 
 # Verkefna Lýsing
-Í þessu verkefni ætlum við að setja upp OLED Display sem telu niður til Jóla.
+Í þessu verkefni ætlum við að setja upp OLED Display sem telur niður til aðfangadags.
 Í þessu verkefni mun koma fram
 
 1. OLED Display - Til að sýna upplýsingar eins og, dagar til jóla og fleiri upplýsingar.
