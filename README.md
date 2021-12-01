@@ -2,14 +2,14 @@
 Lokaverkefni í Verksmiðju 3, Tækniskólinn 2021
 
 # Verkefna Lýsing
-Í þessu verkefni ætlum við að setja upp OLED Display sem telur niður til aðfangadags.
+Í þessu verkefni ætlum við að setja upp rakaskinjara, hitamælir,ljósnema og vatnsdælu til að skynja þarfir plöntu.
 Í þessu verkefni mun koma fram
 
-1. OLED Display - Til að sýna upplýsingar eins og, dagar til jóla og fleiri upplýsingar.
-2. Light Sensor - Til að sjá hvort það sé dimmt eða bjart úti.
-3. LED - Til að sýna hvað séu margar vikur til jóla, á aðfangadegi blikka þær endalaust.
-4. Raspberrypi - Til að miðla upplýsingum frá adafruit
-5. Arduino - Til að lesa úr light sensor
+1. Rakaskynjari - Til að sýna upplýsingar um rakastig moldinar sem plantar er í.
+2. Light Sensor - Til að sjá hvort það sé dimmt eða bjart úti og kveikja á ljósi ef það er of dimmt.
+3. LED - Til að láta sem ljós fyrir plöntuna.
+4. Arduino - Til að miðla upplýsingum frá adafruit og stjórna græjum.
+5. Hitamælir - Til að vita hversu heit er í umhverfi plöntunar
 
 # Circuit Design
 
